@@ -1,7 +1,8 @@
 # RPGMaker Project: A story of Rosy
 
-A little girl named Rosy try to find a way out from a gloomy hospital.  
-Is this a life and death escaping or just a new way of life?
+AI robot Rosy receieved a normal mission to pick up an important client from the hospital.  
+Unfortunately, they met a serious disease outbreak and the hospital becomes a living hell.
+Is this just a death escaping or the beginning of a new life?
 
 Notes:
 * This repo just contains the demo application wihout original codes and project via to copyright.
