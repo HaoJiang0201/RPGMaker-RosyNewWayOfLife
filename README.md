@@ -1,6 +1,6 @@
 # RPGMaker Project: A story of Rosy
 
-AI robot Rosy receieved a normal mission to pick up an important client from the hospital.  
+AI robot Rosy received a normal mission to pick up an important client from the hospital.  
 Unfortunately, they met a serious disease outbreak and the hospital becomes a living hell.
 Is this just a death escaping or the beginning of a new life?
 
